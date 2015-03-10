@@ -535,10 +535,7 @@
         <enabled>false</enabled>
         <name>BulkApiHardDelete</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
-        <name>CanInsertFeedSystemFields</name>
-    </userPermissions>
+    
     <userPermissions>
         <enabled>false</enabled>
         <name>CanUseNewDashboardBuilder</name>
